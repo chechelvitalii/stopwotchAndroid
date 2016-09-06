@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StopWatch</string>
+
+    <string name="demo">DEMO</string>
+
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+
+
+</resources>

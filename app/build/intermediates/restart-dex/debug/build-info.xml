@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="22"
+    density="xxhdpi"
+    format="7"
+    timestamp="1863035979756"
+    token="-2944423888938971578" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6ca8ebbc551c4236629a6919126a8beb5eb36e9a/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_7254dd55eeac59f0d52da8efdf92fcb9a8b6c35a/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_385ee72c08913dc036e49d07f1dd2690f1634358/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_36148dbd596af1aaa13a44b55460e4ce01744059/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_1fb62835695a1cda9d6156be3e8e2f944107dd6f/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_7a2c791569e8b0146b932f844642ba4c2f5e086e/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_f1d2abea1b67e8fb22f4bf64fccbcc638f5c3cab/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_9660453221bf409532df67b98a4d956b67d75f31/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_27b93ae366d2238d75c702eda340a905b4889f97/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_dfda8a710084655764850901b856cabe06ff8bb6/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_207bb0204959061b8c47ba95d048147f049e58ff/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ff59ef297b87c2ce15ff9892efff4d0092d09060/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_c6fb5123b205293fde252b240d7ffa885ee34d69/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_6223549068cd2833a0d9bdb07ff128333123d3b9/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_5f62d1f1c40414144ae98d9fdcc4a7f0f52efee6/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_ddf66ff2b513e0c1e1f50ee3e3cf64004ef2731e/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_a4c9b7a254dbeacab4b842f2603a130370d515a8/classes.dex"
+        type="DEX" />
+
+    <build timestamp="1659641544059" >
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="1863035979756" >
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6ca8ebbc551c4236629a6919126a8beb5eb36e9a/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_7254dd55eeac59f0d52da8efdf92fcb9a8b6c35a/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_385ee72c08913dc036e49d07f1dd2690f1634358/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_36148dbd596af1aaa13a44b55460e4ce01744059/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_1fb62835695a1cda9d6156be3e8e2f944107dd6f/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_7a2c791569e8b0146b932f844642ba4c2f5e086e/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_f1d2abea1b67e8fb22f4bf64fccbcc638f5c3cab/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_9660453221bf409532df67b98a4d956b67d75f31/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_27b93ae366d2238d75c702eda340a905b4889f97/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_dfda8a710084655764850901b856cabe06ff8bb6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_207bb0204959061b8c47ba95d048147f049e58ff/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ff59ef297b87c2ce15ff9892efff4d0092d09060/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_c6fb5123b205293fde252b240d7ffa885ee34d69/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_6223549068cd2833a0d9bdb07ff128333123d3b9/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_5f62d1f1c40414144ae98d9fdcc4a7f0f52efee6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_ddf66ff2b513e0c1e1f50ee3e3cf64004ef2731e/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/home/vitaliy/AndroidStudioProjects/StopWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_a4c9b7a254dbeacab4b842f2603a130370d515a8/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
